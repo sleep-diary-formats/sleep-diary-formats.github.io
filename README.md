@@ -1,6 +1,6 @@
 # Sleep Diary Formats
 
-The project has now moved to [Sleep Diary Library](https://github.com/sleepdiary/library).  This repository is no longer being updated.
+The project has now moved to the [Sleep Diary Core Library](https://github.com/sleepdiary/core).  This repository is no longer being updated.
 
 The new repository contains some minor breaking changes, including:
 
